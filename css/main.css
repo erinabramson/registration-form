@@ -16,6 +16,11 @@ section {
   background-color: #000;
 }
 
+.btn:hover {
+  background-color: #f2f2f2;
+  color: #000;
+}
+
 @media only screen and (min-width: 60em) {
 
   .pad-l {
