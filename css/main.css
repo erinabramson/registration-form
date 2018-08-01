@@ -4,8 +4,10 @@ html {
 }
 
 section {
-    background-color: #fff;
+  background-color: #fff;
 }
+
 .btn {
   color: #fff;
   background-color: #000;
+}
